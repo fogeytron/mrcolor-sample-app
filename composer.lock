@@ -1,0 +1,68 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
+    ],
+    "hash": "e87beaccd3633682afa3760156050c40",
+    "packages": [
+        {
+            "name": "syholloway/mrcolor",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/syholloway/mrcolor.git",
+                "reference": "08087f9c9e49cd4049465ef9e4d6bdcc5f746c7f"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/syholloway/mrcolor/zipball/08087f9c9e49cd4049465ef9e4d6bdcc5f746c7f",
+                "reference": "08087f9c9e49cd4049465ef9e4d6bdcc5f746c7f",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "SyHolloway": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Simon Holloway",
+                    "email": "holloway.sy@gmail.com",
+                    "homepage": "http://hollowaydesign.com/"
+                }
+            ],
+            "description": "Color manipulation tools and format conversion for PHP",
+            "homepage": "https://github.com/syholloway/mrcolor",
+            "keywords": [
+                "color",
+                "format",
+                "manipulation"
+            ],
+            "time": "2014-01-30 13:17:15"
+        }
+    ],
+    "packages-dev": [
+
+    ],
+    "aliases": [
+
+    ],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "syholloway/mrcolor": 20
+    },
+    "platform": [
+
+    ],
+    "platform-dev": [
+
+    ]
+}

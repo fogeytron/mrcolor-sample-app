@@ -1,0 +1,22 @@
+{
+	"name": "fogeytron/mrcolor-sample-app",
+	"description": "Sample App for MrColor",
+	"version": "0.0.1",
+	"keywords": ["sample", "mrcolor"],
+	"require": {
+		"syholloway/mrcolor": "dev-master"
+	},
+	"require-dev": {
+	
+	},
+	"autoload": {
+		"classmap": [
+		],
+		"psr-0": {
+		}
+	},
+	"scripts": {
+	},
+	"config": {
+	}
+}
